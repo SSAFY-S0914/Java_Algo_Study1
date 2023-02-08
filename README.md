@@ -35,7 +35,7 @@
       <strong>로봇청소</strong>
     </td>
     <td align="center">
-      <strong>담배그만펴요</strong>
+      <strong>니코올</strong>
     </td>
     <td  align="center">
        <strong>3대500기원</strong>
