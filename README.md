@@ -44,43 +44,43 @@
   <tr>
     <td  align="center">
       <a href="https://github.com/mycook3">
-        <img src="https://github.com/mycook3.png" style="width:500px;height:100px;" alt="박지환" />
+        <img src="https://github.com/mycook3.png" alt="박지환" />
       </a>
       박지환
     </td>
     <td  align="center">
       <a href="https://github.com/synodical">
-        <img src="https://github.com/synodical.png" style="width:500px;height:100px;"  alt="이예은" />
+        <img src="https://github.com/synodical.png" alt="이예은" />
       </a>
       이예은
     </td>
     <td  align="center">
       <a href="https://github.com/sangilji">
-        <img src="https://github.com/sangilji.png" style="width:500px;height:100px;"  alt="지상일" />
+        <img src="https://github.com/sangilji.png"  alt="지상일" />
       </a>
       지상일
     </td>
     <td  align="center">
       <a href="https://github.com/juuyoungjeon">
-        <img src="https://github.com/juuyoungjeon.png" style="width:500px;height:100px;"  alt="전주영" />
+        <img src="https://github.com/juuyoungjeon.png" alt="전주영" />
       </a>
       전주영
     </td>
     <td  align="center">
       <a href="https://github.com/SeungAh-Yoo99">
-        <img src="https://github.com/SeungAh-Yoo99.png" style="width:500px;height:100px;"  alt="유승아" />
+        <img src="https://github.com/SeungAh-Yoo99.png"  alt="유승아" />
       </a>
       유승아
     </td>
     <td  align="center">
       <a href="https://github.com/eastsage">
-        <img src="https://github.com/eastsage.png" style="width:500px;height:100px;" alt="이동현" />
+        <img src="https://github.com/eastsage.png" alt="이동현" />
       </a>
       이동현
     </td>
     <td  align="center">
       <a href="https://github.com/InHyeok-J">
-        <img src="https://github.com/InHyeok-J.png" style="width:500px;height:100px;" alt="조인혁" />
+        <img src="https://github.com/InHyeok-J.png" alt="조인혁" />
       </a>
       조인혁
     </td>
