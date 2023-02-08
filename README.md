@@ -1,1 +1,4 @@
-# Java_Algo_Study2
+# SSAFY 14반 Java Algo Study
+
+
+
