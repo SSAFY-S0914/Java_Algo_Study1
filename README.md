@@ -32,7 +32,7 @@
       <strong>클린코드</strong>
     </td>
     <td align="center">
-      <strong></strong>
+      <strong>Yoo</strong>
     </td>
     <td align="center">
       <strong>니코올</strong>
