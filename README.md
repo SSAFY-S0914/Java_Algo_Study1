@@ -32,7 +32,7 @@
       <strong>클린코드</strong>
     </td>
     <td align="center">
-      <strong>로봇청소</strong>
+      <strong></strong>
     </td>
     <td align="center">
       <strong>니코올</strong>
