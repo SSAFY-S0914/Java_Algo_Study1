@@ -13,7 +13,8 @@
 - 다른 사람들은 Pull Request의 코드를 보고 궁금한점 or 피드백 댓글 
 
 ## ❓ PR 가이드 라인
-- MD 파일 작성 예정
+- <a href="https://github.com/SSAFY-S0914/Java_Algo_Study1/blob/main/PullRequestGuideline.md" target="_blank" >바로가기</a>
+
 
 ## ⭐ 스터디 멤버
 
