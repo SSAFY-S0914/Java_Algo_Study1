@@ -17,13 +17,12 @@ public class JUN13164_yeeun {
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
         }
-        for (int i = 0; i < n-1; i++) {
+        for (int i = 0; i < n - 1; i++) {
             sub.add(arr[i + 1] - arr[i]);
-            ans += sub.get(i);
         }
-        Collections.sort(sub, Collections.reverseOrder());
-        for (int i = 0; i < k-1; i++) {
-            ans -= sub.get(i);
+        Collections.sort(sub);
+        for (int i = 0; i < n - k; i++) {
+            ans += sub.get(i);
         }
         System.out.println(ans);
     }
