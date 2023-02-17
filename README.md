@@ -33,7 +33,7 @@
       <strong>클린코드</strong>
     </td>
     <td align="center">
-      <strong>Yoo니크</strong>
+      <strong재귀몬</strong>
     </td>
     <td align="center">
       <strong>니코올</strong>
