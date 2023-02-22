@@ -1,3 +1,5 @@
+package week4;
+
 import java.util.Scanner;
 
 public class JUN_9663_Jisangil {
