@@ -20,18 +20,18 @@ public class JUN15565_Jisangil {
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < n; i++) {
             int tmp = Integer.parseInt(st.nextToken());
-            if (tmp == 1){
+            if (tmp == 1){ //라이언배열의 라이언 위치만 추가
                 lion.add(i);
             }
         }
-        if (k>lion.size()){
-            System.out.println(-1);
+        if (k>lion.size()){ //라이언이 k개보다 적으면
+            System.out.println(-1); // 리턴
             return;
         }
 
         int min = Integer.MAX_VALUE;
-        for (int i = 0; i <= lion.size()-k; i++) {
-            min = Math.min(min, lion.get(i + k - 1) - lion.get(i) + 1);
+        for (int i = 0; i <= lion.size()-k; i++) { // 라이언의 위치가 0, 4, 6, 9 라고 하고 k가 3이라면 046과 469만 가능하므로
+            min = Math.min(min, lion.get(i + k - 1) - lion.get(i) + 1); //k의 크기만큼에서 위치 빼주기
         }
 
         System.out.println(min);
