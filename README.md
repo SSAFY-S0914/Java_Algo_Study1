@@ -2,19 +2,20 @@
   SSAFY 14반 Java 알고리즘 스터디 📝
 </h1>
 
-
-##  📙주차별 문제
-
+<br>
 
 ## 💡 스터디 방식
 - 스터디 날짜 : 매주 화요일 저녁 9시
 - 주에 N문제 풀고 풀이 작성
 - 개인 이름으로 브런치를 만들고 매주 스터디 전까지 Pull Request 날리기 (리뷰어 요청 필수)
-- 다른 사람들은 Pull Request의 코드를 보고 궁금한점 or 피드백 댓글 
+- 다른 사람들은 Pull Request의 코드를 보고 궁금한점 or 피드백 댓글
+
+  <br>
 
 ## ❓ PR 가이드 라인
 - <a href="https://github.com/SSAFY-S0914/Java_Algo_Study1/blob/main/PullRequestGuideline.md" target="_blank" >바로가기</a>
 
+<br>
 
 ## ⭐ 스터디 멤버
 
@@ -24,7 +25,7 @@
       <strong>반장님</strong>
     </td>
     <td align="center">
-      <strong>좋은코드발견</strong>
+      <strong>좋은 코드<br>발견</strong>
     </td>
     <td align="center">
       <strong>상일스트라</strong>
@@ -45,43 +46,43 @@
   <tr>
     <td  align="center">
       <a href="https://github.com/mycook3">
-        <img src="https://github.com/mycook3.png" alt="박지환" />
+        <img src="https://github.com/mycook3.png" width=100px height=100px  alt="박지환" />
       </a>
       박지환
     </td>
     <td  align="center">
       <a href="https://github.com/synodical">
-        <img src="https://github.com/synodical.png" alt="이예은" />
+        <img src="https://github.com/synodical.png" width=100px height=100px alt="이예은" />
       </a>
       이예은
     </td>
     <td  align="center">
       <a href="https://github.com/sangilji">
-        <img src="https://github.com/sangilji.png"  alt="지상일" />
+        <img src="https://github.com/sangilji.png" width=100px height=100px alt="지상일" />
       </a>
       지상일
     </td>
     <td  align="center">
       <a href="https://github.com/juuyoungjeon">
-        <img src="https://github.com/juuyoungjeon.png" alt="전주영" />
+        <img src="https://github.com/juuyoungjeon.png" width=100px height=100px alt="전주영" />
       </a>
       전주영
     </td>
     <td  align="center">
       <a href="https://github.com/SeungAh-Yoo99">
-        <img src="https://github.com/SeungAh-Yoo99.png"  alt="유승아" />
+        <img src="https://github.com/SeungAh-Yoo99.png" width=100px height=100px alt="유승아" />
       </a>
       유승아
     </td>
     <td  align="center">
       <a href="https://github.com/eastsage">
-        <img src="https://github.com/eastsage.png" alt="이동현" />
+        <img src="https://github.com/eastsage.png" width=100px height=100px alt="이동현" />
       </a>
       이동현
     </td>
     <td  align="center">
       <a href="https://github.com/InHyeok-J">
-        <img src="https://github.com/InHyeok-J.png" alt="조인혁" />
+        <img src="https://github.com/InHyeok-J.png" width=100px height=100px alt="조인혁" />
       </a>
       조인혁
     </td>
